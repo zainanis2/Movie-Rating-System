@@ -1,0 +1,12 @@
+/* Add this to your existing CSS file */
+
+.blur-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(8px);
+    z-index: -1;
+  }
+  

@@ -1,0 +1,44 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.background-blue
+{
+    background-color: #55BCF8;
+
+}
+.background-pink
+{
+    background-color: #ED5D7C;
+
+}
+.background-purple
+{
+    background-color:#595DB6;
+
+}
+.background-purple-light
+{
+    background-color:#757BE9;
+
+}
+.purple-btn
+{
+    background-color:#3D407C;
+    transition: background-color 0.2s;
+}
+.purple-btn:hover
+{
+    background-color:#2D305E
+}
+.blue-btn {
+    background-color: #55BCF8;
+    transition: background-color 0.2s;
+}
+
+.blue-btn:hover {
+    background-color: #3C89B6;
+}
